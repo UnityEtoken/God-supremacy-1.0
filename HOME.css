@@ -2,12 +2,6 @@
   min-height: 694px;
 }
 
-.u-section-1 .u-shape-1 {
-  width: 620px;
-  height: 400px;
-  margin: 150px auto 0;
-}
-
 .u-section-1 .u-btn-1 {
   text-transform: uppercase;
   font-weight: 700;
@@ -22,10 +16,6 @@
     min-height: 591px;
   }
 
-  .u-section-1 .u-shape-1 {
-    margin-top: 100px;
-  }
-
   .u-section-1 .u-btn-1 {
     margin-bottom: 20px;
   }
@@ -34,10 +24,6 @@
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
     min-height: 453px;
-  }
-
-  .u-section-1 .u-shape-1 {
-    margin-top: 0;
   }
 
   .u-section-1 .u-btn-1 {
@@ -50,12 +36,6 @@
     min-height: 385px;
   }
 
-  .u-section-1 .u-shape-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
-  }
-
   .u-section-1 .u-btn-1 {
     margin-top: 15px;
     margin-right: 107px;
@@ -65,26 +45,18 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 236px;
-  }
-
-  .u-section-1 .u-shape-1 {
-    height: 297px;
-    margin-top: -60px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    min-height: 237px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: -69px;
+    margin-top: 168px;
     margin-right: auto;
     margin-bottom: 19px;
     padding-right: 14px;
     padding-left: 13px;
   }
 } .u-section-2 {
-  background-image: url("images/pnghut_colosseum-new7wonders-of-the-world-ancient-rome-roman-architecture-clip-art-cliparts-17.png");
+  background-image: url("images/pnghut_colosseum-new7wonders-of-the-world-ancient-rome-roman-architecture-clip-art-cliparts-17-14.png");
   background-position: 50% 50%;
 }
 
@@ -146,7 +118,7 @@
     width: 340px;
   }
 } .u-section-3 {
-  background-image: url("images/pnghut_colosseum-new7wonders-of-the-world-ancient-rome-roman-architecture-clip-art-cliparts-17-13.png");
+  background-image: url("images/pnghut_colosseum-new7wonders-of-the-world-ancient-rome-roman-architecture-clip-art-cliparts-17.png");
   background-position: 50% 50%;
 }
 
@@ -329,7 +301,11 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1128px;
+    min-height: 398px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 0;
   }
 
   .u-section-4 .u-text-2 {
@@ -339,16 +315,19 @@
 
   .u-section-4 .u-gallery-1 {
     height: 267px;
+    margin-bottom: -305px;
+    grid-gap: 17px 17px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 2093px;
+    min-height: 331px;
   }
 
   .u-section-4 .u-gallery-1 {
     height: 200px;
+    margin-bottom: -821px;
   }
 }
 
@@ -364,7 +343,6 @@
   .u-section-4 .u-gallery-1 {
     height: 126px;
     margin-bottom: -424px;
-    grid-gap: 17px 17px;
   }
 } .u-section-5 {
   background-image: none;
